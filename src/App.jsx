@@ -6,8 +6,9 @@ function App() {
 
   return  (
     <>
-    <Board/>
+    
     <LoginPage/>
+    <Board/>
     
   </>
   );
