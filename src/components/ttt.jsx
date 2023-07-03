@@ -34,6 +34,9 @@ const Board = () => {
 
 
 
+
+  
+
   // rendering squares through click to track the user where he/she is on
   const renderSquare = i => (
     <Square
